@@ -14,10 +14,4 @@ O projeto se baseia em controles remotos encontrados em autamções residenciais
 
 ### Requisitos
 
-| Requisito | Solução |
-| --------- | -------- |
-| Consumo   | Atuar na maior parte do tempo em Sleep mode e saturação do módulo transmisso apenas durante a transmissão.|
-| Codificação | Codificação do sinal via hardware com dip switch ou gaps na trilha.|
-
-
-
+| Consumo   | Atuar na maior parte do tempo em Sleep mode e saturação do módulo transmisso apenas durante a transmissão.
