@@ -12,6 +12,6 @@ O projeto se baseia em controles remotos encontrados em autamções residenciais
 * MikroC PRO for PIC
 
 
-### Requisitos
+### Propostas
 
 | Consumo   | Atuar na maior parte do tempo em Sleep mode e saturação do módulo transmisso apenas durante a transmissão.
